@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la
+echo "Listing all files in the current directory:"
